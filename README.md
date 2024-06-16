@@ -1,21 +1,12 @@
-# Instructions
+# KERI-concepts
 
-Run the following commands in your terminal:
+Explanatory Spec-Up-T site about the concepts and design principles behind the KERI Suite
 
-```
-cd spec-up-t-starterpack
-```
-
-Now you are in the directory where your Spec-Up-T will run.
-
-```
-npm run install
-```
-
-Now Spec-Up-T should be installed.
-
+## Build on Spec-Up-T
 For more info on how to use Spec-Up-T, see the Spec-Up site:
 
-Website: <https://identity.foundation/spec-up/>
+Website: <https://blockchainbird.github.io/spec-up-t-website/>
 
-Repo: <https://github.com/decentralized-identity/spec-up>
+Repo: <https://github.com/blockchainbird/spec-up-t>
+=======
+# KERI-concepts

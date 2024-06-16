@@ -1,5 +1,5 @@
 
-name: spec-up-render
+name: spec-up-t-render
 
 on:
   push:

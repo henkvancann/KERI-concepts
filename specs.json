@@ -9,7 +9,8 @@
                 "terms-definitions/term-1.md",
                 "terms-definitions/term-2.md",
                 "terms-definitions/internet-scale-digital-trust.md",
-                "terms-definitions/repair-the-internet.md"
+                "terms-definitions/repair-the-internet.md",
+                "concept.md"
             ],
             "logo": "https://raw.githubusercontent.com/trustoverip/logo-assets/master/logos/ToIP-Logo-Color-SolidDimensional-Horizontal-LightOnDark.svg",
             "logo_link": "https://github.com/trustoverip/specification-template",
